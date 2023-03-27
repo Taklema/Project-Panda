@@ -1,3 +1,19 @@
+
 .nav-item a span:hover{
-    color: azure;
+    color: rgb(252, 215, 8);
+}
+.header-bg{
+    background-color: rgb(230, 48, 16);
+}
+.carosel-bg{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+.category-bg{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+.form-bg{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+footer{
+    background-color: rgb(230, 48, 16);
 }
